@@ -520,9 +520,9 @@ header #logo {
 }
 
 header #logo a {
-	background: url(../img/avatar-example.png) no-repeat;
+	background: url(../img/logo.jpg) no-repeat;
 	width: 96px;
-	height: 30px;
+	height: 36px;
 	text-indent: -9999px;
 	display: block;
 	opacity: 1;
@@ -1386,6 +1386,14 @@ nav#menu #menu-nav li a:hover {
 /* ==================================================
    Social Area
 ================================================== */
+
+div#social-area.page-alternate {
+	text-align: center;
+	background: #FFFFFF;
+	padding: 100px 0;
+	position: relative;
+	z-index: 99;
+}
 
 #social-area {
     text-align: center;

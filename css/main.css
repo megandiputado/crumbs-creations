@@ -1390,7 +1390,7 @@ nav#menu #menu-nav li a:hover {
 div#social-area.page-alternate {
 	text-align: center;
 	background: #FFFFFF;
-	padding: 100px 0;
+	padding: 40px 0;
 	position: relative;
 	z-index: 99;
 }
@@ -1488,7 +1488,7 @@ footer {
 	position: relative;
 	width: 100%;
 	height: auto;
-	background: #FFFFFF;
+	background: #F5F6F6;
 	text-align: center;
 	z-index: 99;
 }
